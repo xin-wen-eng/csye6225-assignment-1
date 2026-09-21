@@ -1,9 +1,9 @@
 assignment: 1
-name: Noah Lott
-email: noah.lott@northeastern.edu
+name: Xin Wen
+email: wen.x1@northeastern.edu
 git_config:
-  user.name=nlott
-  user.email=noah.lott@northeastern.edu
+  user.name=xin-wen-eng
+  user.email=xin.wen2333@gmail.com
 github_student_developer_pack: yes
-aws_account_id: 123456789012
+aws_account_id: 724166961756
 ssh_config: successful
